@@ -11,7 +11,7 @@ Welcome to the Robotic Arm project repository. This project aims to model a robo
 - Trajectories for the arm can be provided using different methods, including editor block, signal generator, or predefined blocks from the Robotic System Toolbox.
 - The project explores Jacobian and Velocity Kinematics for the robotic manipulator.
 
-### 2. Robot_3
+### 2. Robot_DOF_3
 - Contains a CAD model of a 3-degree-of-freedom robotic arm using SimScape.
 - Implements forward and inverse kinematics.
 - Demonstrates PD (Proportional-Derivative) control and Computed Torque Control.
